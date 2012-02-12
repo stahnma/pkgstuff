@@ -1,1 +1,5 @@
 # Configuration file for setups, possibly
+
+test:
+  path: fixture
+  base: '/'

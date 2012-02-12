@@ -42,5 +42,15 @@ put to each of the above paths for a refresh of each repository
 ## Add new package ##
 POST to repo URL
 
+# Other Stuff #
+* delta rpms
+* gpg stuff
+* repoview like interface
+* sign in
+* Get api key
+* write authentication module
 
-
+# Scratch
+* format for each repo
+yml ? 
+name, type, family, description (no arch at this time)
